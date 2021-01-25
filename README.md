@@ -1,2 +1,1 @@
-# TinDog
-Practice site | Udemy course.
+TinDog Starting Files
