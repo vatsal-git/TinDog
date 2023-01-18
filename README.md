@@ -1,2 +1,10 @@
-Language : HTML, CSS
-Key Features : Learnt CSS
+# TinDog
+
+## Overview
+
+- Part of FullStack Development course.
+
+## Stack:
+
+- HTML, CSS
+
